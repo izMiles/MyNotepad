@@ -5,6 +5,9 @@ First Java Gui Project
 MyNotepad is a user-friendly notepad with a login system and database. It allows the user to save notes and load them anytime. It can register user's data into a database so it can cater multiple users.
 Users can also open multiple notes at a time. It has an administrator, manager and, user. The user interface is built simple for users to understand.
 
+
+
+
 Roles:
 
 Administrator
@@ -31,5 +34,9 @@ User
 -View notes
 -Load notes
 
+
+
+
 Instructions:
-Download GroupProject folder and extract to desktop
+Download GroupProject folder and extract to desktop, Next is run MyNotepad.jar file
+Register user then login. Last is enjoy writing notes. ^^
